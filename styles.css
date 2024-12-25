@@ -70,6 +70,10 @@ section {
     margin: 2rem 0;
 }
 
+section:last-of-type {
+    margin-bottom: 0;
+}
+
 h2 {
     color: #464545;
     margin-bottom: -1rem;
