@@ -89,6 +89,14 @@ h2 {
     width: 325px;
 }
 
+#byline {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    margin-bottom: -5pt   ;
+}
+
 footer {
     background-color: #022b61;
     color: #fff;
